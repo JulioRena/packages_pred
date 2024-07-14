@@ -33,3 +33,4 @@ tomlkit==0.12.5
 trove-classifiers==2024.5.22
 urllib3==2.2.1
 virtualenv==20.26.2
+joblib
